@@ -1,3 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.calc .numeros{
+    margin-left: 25%;
+}
+
 .calc{
     background-color: antiquewhite;
     position: absolute;
