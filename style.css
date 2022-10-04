@@ -11,17 +11,15 @@
 .calc h1{
     text-align: center;
 }
-
-.calc button{
+.calc span{
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.calc span{
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.botoes{
+    display: flex;
+    justify-content: center;
 }
 
 
